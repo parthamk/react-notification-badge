@@ -1,6 +1,6 @@
 {
-  "name": "react-notification-badge",
-  "version": "1.5.1",
+  "name": "@parthamk/notification-badge",
+  "version": "1.5.2",
   "description": "Simple notification badge react component",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mobilusoss/react-notification-badge"
+    "url": "git://github.com/parthamk/react-notification-badge"
   },
   "keywords": [
     "react",
@@ -22,12 +22,12 @@
     "badge",
     "notification"
   ],
-  "author": "Takeharu.Oshida",
+  "author": "Partha Mallick",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mobilusoss/react-notification-badge/issues"
   },
-  "homepage": "https://github.com/mobilusoss/react-notification-badge",
+  "homepage": "https://github.com/parthamk/react-notification-badge",
   "devDependencies": {
     "@babel/cli": "^7.24.7",
     "@babel/core": "^7.24.7",
